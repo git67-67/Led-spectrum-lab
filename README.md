@@ -1,4 +1,6 @@
 # LED Spectrum Lab
+https://git67-67.github.io/Led-spectrum-lab/
+
 
 Add, edit, mix and analyse LED spectra in the browser. One self-contained HTML file; no server, no external
 dependencies, works offline from `file://`.
